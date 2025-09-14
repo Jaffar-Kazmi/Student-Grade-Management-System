@@ -3,6 +3,9 @@
 ## Overview
 This is a console-based Java application developed as the first assignment for the **Advanced Computer Programming** course. The system allows users to manage student records including their IDs, names, and marks for three subjects.
 
+## Motivation
+Created for Advanced Computer Programming Course - Assignment 1
+
 ## Features
 
 ### Core Functionalities
@@ -140,7 +143,6 @@ This project was developed as part of the **Advanced Computer Programming** cour
 
 ## Author
 Syed Jaffar Raza Kazmi
-Created for Advanced Computer Programming Course - Assignment 1
 
 ---
 *This project serves as a foundation for understanding console-based application development and data management in Java.*
